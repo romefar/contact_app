@@ -1,3 +1,3 @@
 # Contact app
 
-Simple React Native contact application.
+Simple React Native contact application for iOS. 

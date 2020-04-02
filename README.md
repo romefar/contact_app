@@ -1,4 +1,4 @@
-# Contact app
+# Contact application
 
 Simple React Native contact application for **iOS**. 
 
